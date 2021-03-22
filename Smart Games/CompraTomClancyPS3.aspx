@@ -89,7 +89,8 @@
 
         <div style="text-align:center"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />          
             <asp:TextBox ID="txtCEP" runat="server" BackColor="#cccccc" ForeColor="Black" Width="5%" TextMode="Number"></asp:TextBox>
-            <asp:Button ID="btnCEP" runat="server" text="Calcular Frete" BackColor="#cccccc" ForeColor="black" OnClick="btnCEP_Click"></asp:Button>          
+            <asp:Button ID="btnCEP" runat="server" text="Calcular Frete" BackColor="#cccccc" ForeColor="black" OnClick="btnCEP_Click"></asp:Button>  
+               <asp:TextBox ID="txtVendasFeitas" runat="server" Visible="false"></asp:TextBox>
        </div>
 
         <div style="text-align:center"><br /><br /><br /><br /><br />

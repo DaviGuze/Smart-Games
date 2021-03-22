@@ -42,6 +42,15 @@ namespace Smart_Games
         protected global::System.Web.UI.WebControls.Button btnCEP;
 
         /// <summary>
+        /// Controle txtVendasFeitas.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtVendasFeitas;
+
+        /// <summary>
         /// Controle btnContinuarComprando.
         /// </summary>
         /// <remarks>
